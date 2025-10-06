@@ -1,1 +1,1 @@
-# JDBC-PROJECT-BASED-LEARNING-IN-JAVA
+This repositry basicallly focuses in the connection of mysql by JDBC.
